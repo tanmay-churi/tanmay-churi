@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmay-churi&label=Profile%20views&color=0e75b6&style=flat" alt="tanmay-churi" /> </p>
 
-
 - 🔭 Passionate about **data-driven solutions, with a keen focus on Generative AI and Large Language Models (LLMs).**
 
 - 💬 Happy to discuss **Python, Data Science, and the latest in AI technology.**
