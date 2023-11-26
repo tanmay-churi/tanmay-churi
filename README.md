@@ -2,6 +2,7 @@
 <h3 align="center">Engineering the Future with Advanced AI Solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmay-churi&label=Profile%20views&color=0e75b6&style=flat" alt="tanmay-churi" /> </p>
+<img align="right" alt="coding" width="350" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ega9axugn65dn7jzkioiodm63943v1le9kyraqrq&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 - 🔭 Passionate about **data-driven solutions, with a keen focus on Generative AI and Large Language Models (LLMs).**
 
